@@ -1,4 +1,4 @@
-# Floor Map with Access Point Localization
+# Indoor Localization Using Matlab
 
 - This MATLAB project visualizes a floor map and simulates user localization based on received signal power from multiple access points (APs). 
 - The script uses signal strength measurements and path loss models to estimate the user's position within a defined floor plan.
